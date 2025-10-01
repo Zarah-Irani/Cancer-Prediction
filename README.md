@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Cancer Prediction Project</title>
+ 
 </head>
 <body>
   <h1>🧬 Cancer Prediction – Cervical Cancer Classification</h1>
